@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Css3](https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png)
-![Javascript](https://www.so-peps.com/wp-content/uploads/2016/03/js-logo.png)
-![HTML5](https://clipground.com/images/html5-logo-2.png)
+<div class="bemvindo">
+  <h2>Olá, Bem vindo(a) ao meu perfil!</h2
+</div>
+
+<div class="tecnologias">
+  <img src="" alt="HTML5"/>
+  <img src="" alt="CSS3"/>
+  <img src="" alt="Javascript"/>
+  <img src="" alt="PHP"/>
+  <img src="" alt="React"/>
+  <img src="" alt="Python"/>
+  <img src="" alt="Java"/>
+</div>
+  
