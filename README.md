@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Css3](https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png)
+![Javascript](https://www.so-peps.com/wp-content/uploads/2016/03/js-logo.png)
+![HTML5](https://clipground.com/images/html5-logo-2.png)
