@@ -26,10 +26,9 @@ Here are some ideas to get you started:
   <img src="" alt="Python"/>
   <img src="" alt="Java"/>
 </div>
+    
   
-<div>
-  - 🌱 I’m currently learning React & Python
-  - 👯 I’m looking to collaborate on Javascript Projects
-  - 📫 How to reach me: kervij@gmail.com || Telegram: https://t.me/kervijhonata
-  - 🌎 Social: Instagram: https://www.instagram.com/kervijhonata
-</div>
+- 🌱 I’m currently learning React & Python
+- 👯 I’m looking to collaborate on Javascript Projects
+- 📫 How to reach me: kervij@gmail.com || Telegram: https://t.me/kervijhonata
+- 🌎 Social: Instagram: https://www.instagram.com/kervijhonata
