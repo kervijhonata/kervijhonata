@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 </div>
 
 <div class="tecnologias">
-  <img src="" alt="HTML5"/>
-  <img src="" alt="CSS3"/>
-  <img src="" alt="Javascript"/>
-  <img src="" alt="PHP"/>
-  <img src="" alt="React"/>
-  <img src="" alt="Python"/>
-  <img src="" alt="Java"/>
+  <img src="icons/html-5.png" alt="HTML5"/>
+  <img src="icons/css.png" alt="CSS3"/>
+  <img src="icons/javascript.png" alt="Javascript"/>
+  <img src="icons/php.png" alt="PHP"/>
+  <img src="icons/react.png" alt="React"/>
+  <img src="icons/python.png" alt="Python"/>
+  <img src="icons/java.png" alt="Java"/>
 </div>
     
   
