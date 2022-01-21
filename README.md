@@ -24,11 +24,10 @@ Here are some ideas to get you started:
   <img src="icons/php.png" alt="PHP"/>
   <img src="icons/react.png" alt="React"/>
   <img src="icons/python.png" alt="Python"/>
-  <img src="icons/java.png" alt="Java"/>
 </div>
     
   
 - 🌱 I’m currently learning React & Python
 - 👯 I’m looking to collaborate on Javascript Projects
-- 📫 How to reach me: kervij@gmail.com || Telegram: https://t.me/kervijhonata
+- 📫 Reach me on: kervij@gmail.com || Telegram: https://t.me/kervijhonata
 - 🌎 Social: Instagram: https://www.instagram.com/kervijhonata
