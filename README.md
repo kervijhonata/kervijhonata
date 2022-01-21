@@ -14,16 +14,18 @@ Here are some ideas to get you started:
 -->
 
 <div class="bemvindo">
-  <h2>👋 Hey, welcome to my Github page!</h2
+  <h2>👋 Hey, Welcome to my Github page!</h2
 </div>
 
 <div class="tecnologias">
-  <img src="icons/html-5.png" alt="HTML5"/ width="40px">
-  <img src="icons/css.png" alt="CSS3"/>
-  <img src="icons/javascript.png" alt="Javascript"/>
-  <img src="icons/php.png" alt="PHP"/>
-  <img src="icons/react.png" alt="React"/>
-  <img src="icons/python.png" alt="Python"/>
+  <h3>Some Technologies i work with<h3>
+  <img src="icons/html-5.png" alt="HTML5" width="40px"/>
+  <img src="icons/css.png" alt="CSS3" width="40px"/>
+  <img src="icons/javascript.png" alt="Javascript" width="40px"/>
+  <img src="icons/php.png" alt="PHP" width="40px"/>
+  <img src="icons/react.png" alt="React" width="40px"/>
+  <img src="icons/python.png" alt="Python" width="40px"/>
+  <img src="icons/java.png" alt="Java" width="40px"/>
 </div>
     
   
