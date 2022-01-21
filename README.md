@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <div class="bemvindo">
-  <h2>👋 Olá, Bem vindo(a) ao meu perfil!</h2
+  <h2>👋 Hey, welcome to my Github page!</h2
 </div>
 
 <div class="tecnologias">
-  <img src="icons/html-5.png" alt="HTML5"/>
+  <img src="icons/html-5.png" alt="HTML5"/ width="40px">
   <img src="icons/css.png" alt="CSS3"/>
   <img src="icons/javascript.png" alt="Javascript"/>
   <img src="icons/php.png" alt="PHP"/>
