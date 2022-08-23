@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <div class="welcome-heading">
-  <h1>`Hello, ${user.you}!`</h1>
-  <p>Hey, welcome! Please, let me introduce myself</p>
+  <h1>Hello, ${user.you}!</h1>
+  <p>Welcome!</p>
 </div>
 
 <div class="working-tecnologies">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="icons/python.png" alt="Python" width="40px"/>
 </div>
   
-How Can i serve you?
+How Can i Serve you?
 
 - 📫 Reach me on: kervij@gmail.com || Telegram: https://t.me/kervijhonata
 - 🌎 Social: Instagram: https://www.instagram.com/kervijhonata
