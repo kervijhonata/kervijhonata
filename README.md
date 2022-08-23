@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I LOVE cold coffee <3
 -->
 
-<div class="bemvindo">
-  <h1>`Hello, ${user.you}!`</h1>
+<div class="welcome-heading">
+  # `Hello, ${user.you}!`
+  
 </div>
 
 <div class="working-tecnologies">
-  <h2>Technologies that I'm still working with<h2>
+  ## Technologies that I'm still working with<h2>
   <img src="icons/html-5.png" alt="HTML5" width="40px"/>
   <img src="icons/css.png" alt="CSS3" width="40px"/>
   <img src="icons/javascript.png" alt="Javascript" width="40px"/>
@@ -26,7 +27,7 @@ Here are some ideas to get you started:
   <img src="icons/java.png" alt="Java" width="40px"/>
 </div>
 <div class="learning-tecnologies">
-  <h2>This ones that I'm studing</h2>
+  ## This ones that I'm studing</h2>
   <img src="icons/react.png" alt="React" width="40px"/>
   <img src="icons/python.png" alt="Python" width="40px"/>
 </div>
