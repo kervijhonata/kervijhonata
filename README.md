@@ -24,28 +24,29 @@ My name is Kervi, i'm 23y, actually living in Maranguape, Ceará, located on Bra
 ## How Can i Serve you?
 
 
-<div class="working-tecnologies">
-  <h2>Technologies that i work with</h2>
-  HTML5 <img src="icons/html-5.png" alt="HTML5" width="40px"/>
-  CSS3 <img src="icons/css.png" alt="CSS3" width="40px"/>
-  JAVASCRIPT <img src="icons/javascript.png" alt="Javascript" width="40px"/>
-  PHP <img src="icons/php.png" alt="PHP" width="40px"/>
-  NODE.JS<img src="icons/node.png" alt="NodeJS" width="40px"/>
-</div>
-<div class="learning-tecnologies">
-  <h2>This ones that I'm studing</h2>
-  <img src="icons/react.png" alt="React" width="40px"/>
-  <img src="icons/node.png" alt="NodeJS" width="40px"/>
-  <img src="icons/python.png" alt="Python" width="40px"/>
-  <img src="icons/java.png" alt="Java" width="40px"/>
-</div>
-  
+Technologies that i work with:
+------------------------------
 
+HTML5 ![HTML5](icons/html-5.png)
+CSS3 ![CSS3](icons/css.png)
+JAVASCRIPT ![Javascript](icons/javascript.png)
+PHP ![PHP](icons/php.png)
+NODE.JS![NodeJS](icons/node.png)
+
+What I'm currenty studing:
+--------------------------
+
+REACT ![React](icons/react.png)
+NODE.JS ![NodeJS](icons/node.png)
+PYTHON: ![Python](icons/python.png)
+JAVA: ![Java](icons/java.png)
+
+--------------------------
 
 - 📫 Reach me on: kervij@gmail.com || Telegram: https://t.me/kervijhonata
 - 🌎 Social: Instagram: https://www.instagram.com/kervijhonata
     
-- 🔭 I'm Searching for Front-End Jobs 
+- 🔭 I'm Searching for first Job (front-end or fullstack node)
 - 🌱 I’m currently learning React & Python
 - 👯 I’m looking to Javascript Projects Collab
 - 🤔 May you can help me with Node.JS Back-End
